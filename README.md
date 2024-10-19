@@ -13,7 +13,7 @@ This project is a simple demonstration that implements a multi-agent AI tutoring
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.6 or higher installed
+- Python 3.10 or higher installed
 - pip (Python package manager) installed
 
 ## Installation
